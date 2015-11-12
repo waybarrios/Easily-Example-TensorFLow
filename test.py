@@ -1,7 +1,7 @@
 #Import useful libs
 """
 @Author: Waybarrios
-Based on Tensorfow Docs
+Based on Tensorflow Docs
 
 """
 import tensorflow as tf
